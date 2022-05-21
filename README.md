@@ -1,4 +1,3 @@
-[![GitHub all releases](https://img.shields.io/github/downloads/RandomGuyJCI/UnityCtrlBackspace/total)](https://github.com/RandomGuyJCI/UnityCtrlBackspace/releases/latest)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RandomGuyJCI/UnityCtrlBackspace/issues)
 
 
@@ -28,4 +27,4 @@
 ## Development
 Although this plugin was originally built for Rhythm Doctor, it can also be installed/ported over to any Unity game that uses input fields for text input.
 
-After cloning the repository, the Nuget.Config file should automatically install the BepInEx dependendies needed for development, although you still need to manually import a publicized version of the `UnityEngine.UI.dll` file. Instructions can be found over at the [NStrip](https://github.com/BepInEx/NStrip) GitHub page.
+After cloning the repository, the Nuget.Config file should automatically install the BepInEx dependendies needed for development, although you still need to manually import a publicized version of the `UnityEngine.UI.dll` file which you can likely copy over from your game's data files. Instructions for publicizing assemblies can also be found over at the [NStrip](https://github.com/BepInEx/NStrip) GitHub page.
