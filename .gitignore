@@ -1,0 +1,9 @@
+# Non-source code files
+UnityCtrlBackspace/libs
+UnityCtrlBackspace/bin
+UnityCtrlBackspace/obj
+
+# IDE-specific files and folders
+.vs/
+.idea/
+*.DotSettings.user
